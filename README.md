@@ -17,7 +17,11 @@ Here's a sample of what I used for the list above:
 </ionic-video-link>
 ```
 
-The directive preserves whatever you have inside the ionic-video-link tag so you can use it for any sort of link!  Very handy.
+####Attributes:
+
+- video-src will just link to the video asset that you want to launch when whatever is inside the link is clicked.  
+- video-name just has to be a unique name for the link for the internal 
+- The directive uses whatever you have inside the ionic-video-link tag as a link!  Very handy.
 
 # Installation
 
